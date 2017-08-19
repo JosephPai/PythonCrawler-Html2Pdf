@@ -34,7 +34,13 @@ pdfkit.from_file(htmls, self.name + ".pdf", options=options,configuration=config
 
 ### 运行
 ```python
-python crawler.py
+python LiaoPythonCrawler.py
 ```
 
 ### 效果图
+![image](https://raw.githubusercontent.com/JosephPai/PythonCrawler-Html2Pdf/master/asserts/01.jpg)
+![image](https://raw.githubusercontent.com/JosephPai/PythonCrawler-Html2Pdf/master/asserts/02.jpg)
+
+### 参考链接
+  https://github.com/lzjun567/crawler_html2pdf/tree/master/pdf
+  特此感谢
